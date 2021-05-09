@@ -46,10 +46,3 @@ i.e. There is no overlap between automobiles and trucks. "Automobile" includes s
 
 ## Conclusion
 Best accuracy comes from Support vector classifier. Although, It can be further improved by using neural networks (which i will be deploying in other repository.)
-
-## Clone the Project:
-```git clone https://github.com/wikiabhi/Cifar-10.git```
-
-
-``` MIT License ```
-```Copyright (c) 2018 Abhishek```
